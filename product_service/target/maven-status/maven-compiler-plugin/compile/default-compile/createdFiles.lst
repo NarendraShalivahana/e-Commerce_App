@@ -1,0 +1,10 @@
+com/ecommerceapp/product_service/DTO/productResponse.class
+com/ecommerceapp/product_service/DTO/productResponse$productResponseBuilder.class
+com/ecommerceapp/product_service/Controller/productController.class
+com/ecommerceapp/product_service/Model/product.class
+com/ecommerceapp/product_service/Model/product$productBuilder.class
+com/ecommerceapp/product_service/ProductServiceApplication.class
+com/ecommerceapp/product_service/DTO/productRequest$productRequestBuilder.class
+com/ecommerceapp/product_service/Service/productService.class
+com/ecommerceapp/product_service/DTO/productRequest.class
+com/ecommerceapp/product_service/Repository/productRepository.class
